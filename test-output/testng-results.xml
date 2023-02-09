@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-03T17:45:52 PST" name="Default suite" finished-at="2023-02-03T17:45:55 PST" duration-ms="2675">
+    <groups>
+    </groups>
+    <test started-at="2023-02-03T17:45:52 PST" name="Default test" finished-at="2023-02-03T17:45:55 PST" duration-ms="2675">
+      <class name="com.rajdhakal.pojoANDSerialization.SerializeTest">
+        <test-method signature="serialization()[pri:0, instance:com.rajdhakal.pojoANDSerialization.SerializeTest@5b8dfcc1]" started-at="2023-02-03T17:45:52 PST" name="serialization" finished-at="2023-02-03T17:45:55 PST" duration-ms="2633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serialization -->
+      </class> <!-- com.rajdhakal.pojoANDSerialization.SerializeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
